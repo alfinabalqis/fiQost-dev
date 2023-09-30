@@ -1,6 +1,6 @@
 import React from 'react';
 import { BsBell } from 'react-icons/bs';
-import Avatar from '/img/ava.png'
+import Avatar from '../../../public/img/ava.png';
 
 export default function Navbar() {
   return (
